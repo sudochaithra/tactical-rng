@@ -10,8 +10,9 @@
 
 *Click any codename below to jump directly to the live repo.*
 
-| Codename (Repo) | Mission Profile / What It Actually Does | Stack | Status |
+| Codename (Repo) | Mission Profile / What It Actually Does | Stack |
 | :--- | :--- | :--- | :--- |
+**[`cuddly_octo_computer_machine`](https://github.com/sudochaithra/cuddly_octo_computer_machine)** | ` Automated SSH brute-force monitor & headless log parser (`awk`/`sed` one-liners). | `Bash` | 
 
 <TT>˗ˏˋ ★ ˎˊ˗RULES OF ENGAGEMENT</TT>
 1. **Take What You Get:** Click **New Repository**, accept the **first** auto-generated default name GitHub offers. No refreshing.
