@@ -4,15 +4,15 @@
 
 <TT>˗ˏˋ ★ ˎˊ˗BRIEFING</TT>
 
-*Every time you create a new repo on GitHub, their generator spits out some glorious, unhinged reponames like `fuzzy-octo-chainsaw` or `legendary-spoon`. Normally, you would hit backspace and type `my-first-python-script`.* This challenge forces me to create a project based on reponames the RNG gods hand down.
+*Every time you create a new repo on GitHub, their generator spits out some glorious, unhinged reponames like `fuzzy-octo-chainsaw` or `legendary-spoon`. Normally, I would hit backspace and type `my-first-python-script`.* This challenge forces me to create a project based on reponames the RNG gods hand down.
 
 <TT>˗ˏˋ ★ ˎˊ˗NAVIGATION BAR</TT>
 
 *Click any codename below to jump directly to the live repo.*
 
-| Codename (Repo) | Mission Profile / What It Actually Does | Stack |
-| :--- | :--- | :--- | :--- |
-**[`cuddly_octo_computer_machine`](https://github.com/sudochaithra/cuddly_octo_computer_machine)** | ` Automated SSH brute-force monitor & headless log parser (`awk`/`sed` one-liners). | `Bash` | 
+| Codename (Repo) | Profile | Stack |
+| :--- | :--- | :--- |
+| **[`cuddly_octo_computer_machine`](https://github.com/sudochaithra/cuddly_octo_computer_machine)**  | 8-register C virtual CPU | `C` / `Linux` | 
 
 <TT>˗ˏˋ ★ ˎˊ˗RULES OF ENGAGEMENT</TT>
 1. **Take What You Get:** Click **New Repository**, accept the **first** auto-generated default name GitHub offers. No refreshing.
