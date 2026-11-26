@@ -12,7 +12,7 @@
 
 | Codename (Repo) | Profile | Stack |
 | :--- | :--- | :--- |
-| **[`cuddly_octo_computer_machine`](https://github.com/sudochaithra/cuddly_octo_computer_machine)**  | 8-register C virtual CPU | `C` / `Linux` | 
+| **[`cuddly_octo_computer_machine`](https://github.com/sudochaithra/cuddly_octo_computer_machine)**  | 8-Bit Virtual CPU Emulator & Custom Bytecode Assembler in C | `C`  `Linux`  `Python` | 
 
 <TT>˗ˏˋ ★ ˎˊ˗RULES OF ENGAGEMENT</TT>
 1. **Take What You Get:** Click **New Repository**, accept the **first** auto-generated default name GitHub offers. No refreshing.
